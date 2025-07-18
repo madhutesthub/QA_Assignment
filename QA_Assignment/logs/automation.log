@@ -1,0 +1,931 @@
+2025-07-18 18:22:51 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 18:22:51 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 18:22:53 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 18:22:57 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 18:22:57 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 18:23:01 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 18:23:06 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 18:23:12 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 18:23:15 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 18:23:20 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 18:23:20 INFO  TC003_ChangePasswordTest:34 - Clicked user profile arrow
+2025-07-18 18:23:23 INFO  TC003_ChangePasswordTest:37 - Clicked My Account
+2025-07-18 18:23:26 INFO  TC003_ChangePasswordTest:40 - Clicked Change Password link
+2025-07-18 18:23:26 INFO  TC003_ChangePasswordTest:43 - Entered current password
+2025-07-18 18:23:27 INFO  TC003_ChangePasswordTest:48 - Entered new password: zvvGr@96815
+2025-07-18 18:23:32 INFO  TC003_ChangePasswordTest:51 - Clicked Save
+2025-07-18 18:23:32 INFO  TC003_ChangePasswordTest:54 - Validating password change success message...
+2025-07-18 18:23:32 INFO  TC003_ChangePasswordTest:57 - Actual Message: You saved the account information.
+2025-07-18 18:23:32 INFO  TC003_ChangePasswordTest:61 - ********** Password Change Test Passed **********
+2025-07-18 18:23:32 INFO  TC003_ChangePasswordTest:62 - New password is: zvvGr@96815
+2025-07-18 18:23:32 INFO  TC003_ChangePasswordTest:72 - ********** TC003_ChangePasswordTest Completed **********
+2025-07-18 18:23:36 INFO  TC004_LogoutTest:17 - **********TC004_Logout started**********
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:25:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--1852592558\testng-customsuite.xml
+
+2025-07-18 18:25:21 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-07-18 18:25:26 INFO  TC004_LogoutTest:17 - **********TC004_Logout started**********
+2025-07-18 18:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6eb82908: 58 ms
+2025-07-18 18:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@39e67516: 15 ms
+2025-07-18 18:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@26f7cdf8: 12 ms
+2025-07-18 18:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7a22a3c2: 9 ms
+2025-07-18 18:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@65f58c6e: 8 ms
+2025-07-18 18:25:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ad7e90: 0 ms
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:27:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--1561940217\testng-customsuite.xml
+
+2025-07-18 18:27:40 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-18 18:27:45 INFO  TC004_LogoutTest:17 - **********TC004_Logout started**********
+2025-07-18 18:28:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@f2ce6b: 55 ms
+2025-07-18 18:28:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@18eec010: 17 ms
+2025-07-18 18:28:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4f824872: 14 ms
+2025-07-18 18:28:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5fc930f0: 10 ms
+2025-07-18 18:28:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31133b6e: 9 ms
+2025-07-18 18:28:00 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29528a22: 0 ms
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:28:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-2003481868\testng-customsuite.xml
+
+2025-07-18 18:28:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-18 18:29:02 INFO  TC004_LogoutTest:17 - **********TC004_Logout started**********
+2025-07-18 18:29:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@f2ce6b: 107 ms
+2025-07-18 18:29:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@18eec010: 27 ms
+2025-07-18 18:29:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4f824872: 21 ms
+2025-07-18 18:29:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5fc930f0: 14 ms
+2025-07-18 18:29:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31133b6e: 14 ms
+2025-07-18 18:29:18 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29528a22: 0 ms
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:33:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--452383517\testng-customsuite.xml
+
+2025-07-18 18:33:41 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-18 18:33:45 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 18:33:47 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 18:33:49 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 18:33:49 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 18:34:09 ERROR TC004_LogoutTest:49 - Test failed due to exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='panel header']//button[@type='button']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-07-18 18:34:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7495699f: 58 ms
+2025-07-18 18:34:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@e3994ef: 14 ms
+2025-07-18 18:34:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5edf2821: 9 ms
+2025-07-18 18:34:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@342726f1: 7 ms
+2025-07-18 18:34:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@de77232: 7 ms
+2025-07-18 18:34:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62628e78: 0 ms
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 18:40:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--1509908291\testng-customsuite.xml
+
+2025-07-18 18:40:31 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-07-18 18:40:36 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 18:40:37 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 18:40:39 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 18:40:40 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 18:40:40 INFO  TC004_LogoutTest:41 - Clicked welcome arrow
+2025-07-18 18:40:42 INFO  TC004_LogoutTest:44 - Clicked Sign Out
+2025-07-18 18:40:42 INFO  TC004_LogoutTest:46 - ********** TC004_LogoutTest Passed **********
+2025-07-18 18:40:42 INFO  TC004_LogoutTest:53 - ********** TC004_LogoutTest Completed **********
+2025-07-18 18:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3e6534e7: 58 ms
+2025-07-18 18:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@138caeca: 1 ms
+2025-07-18 18:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2875b016: 8 ms
+2025-07-18 18:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@745c2004: 7 ms
+2025-07-18 18:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@23940f86: 6 ms
+2025-07-18 18:40:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@66153688: 0 ms
+2025-07-18 18:48:07 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 18:48:07 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 18:48:09 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 18:48:42 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 18:48:43 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 18:49:01 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 18:49:23 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 18:49:33 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 18:49:37 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 18:49:42 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 18:49:44 INFO  TC003_ChangePasswordTest:34 - Clicked user profile arrow
+2025-07-18 18:49:45 INFO  TC003_ChangePasswordTest:37 - Clicked My Account
+2025-07-18 18:50:05 ERROR TC003_ChangePasswordTest:68 - Test Failed due to Exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Change Password']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-07-18 18:50:12 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 18:50:15 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 18:50:21 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 18:50:21 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 18:50:21 INFO  TC004_LogoutTest:41 - Clicked welcome arrow
+2025-07-18 18:50:25 INFO  TC004_LogoutTest:44 - Clicked Sign Out
+2025-07-18 18:50:25 INFO  TC004_LogoutTest:46 - ********** TC004_LogoutTest Passed **********
+2025-07-18 18:50:25 INFO  TC004_LogoutTest:53 - ********** TC004_LogoutTest Completed **********
+2025-07-18 18:52:51 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 18:52:51 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 18:52:56 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 18:53:07 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 18:53:12 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 18:53:24 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 18:53:40 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 18:53:50 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 18:53:54 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 18:53:58 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 18:54:00 INFO  TC003_ChangePasswordTest:34 - Clicked user profile arrow
+2025-07-18 18:54:00 INFO  TC003_ChangePasswordTest:37 - Clicked My Account
+2025-07-18 18:54:21 ERROR TC003_ChangePasswordTest:68 - Test Failed due to Exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Change Password']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-07-18 18:54:30 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 18:54:34 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 18:54:37 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 18:54:37 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 18:54:38 INFO  TC004_LogoutTest:41 - Clicked welcome arrow
+2025-07-18 18:54:42 INFO  TC004_LogoutTest:44 - Clicked Sign Out
+2025-07-18 18:54:42 INFO  TC004_LogoutTest:46 - ********** TC004_LogoutTest Passed **********
+2025-07-18 18:54:42 INFO  TC004_LogoutTest:53 - ********** TC004_LogoutTest Completed **********
+2025-07-18 19:00:03 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 19:00:03 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 19:00:06 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 19:00:13 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 19:00:13 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 19:00:22 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 19:00:29 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 19:00:39 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 19:00:41 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 19:00:48 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 19:00:48 INFO  TC003_ChangePasswordTest:34 - Clicked user profile arrow
+2025-07-18 19:00:52 INFO  TC003_ChangePasswordTest:37 - Clicked My Account
+2025-07-18 19:00:56 INFO  TC003_ChangePasswordTest:40 - Clicked Change Password link
+2025-07-18 19:00:57 INFO  TC003_ChangePasswordTest:43 - Entered current password
+2025-07-18 19:00:58 INFO  TC003_ChangePasswordTest:48 - Entered new password: RDYvs@66842
+2025-07-18 19:01:02 INFO  TC003_ChangePasswordTest:51 - Clicked Save
+2025-07-18 19:01:02 INFO  TC003_ChangePasswordTest:54 - Validating password change success message...
+2025-07-18 19:01:03 INFO  TC003_ChangePasswordTest:57 - Actual Message: You saved the account information.
+2025-07-18 19:01:03 INFO  TC003_ChangePasswordTest:61 - ********** Password Change Test Passed **********
+2025-07-18 19:01:03 INFO  TC003_ChangePasswordTest:62 - New password is: RDYvs@66842
+2025-07-18 19:01:03 INFO  TC003_ChangePasswordTest:72 - ********** TC003_ChangePasswordTest Completed **********
+2025-07-18 19:01:13 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 19:01:15 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 19:01:18 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 19:01:18 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 19:01:38 ERROR TC004_LogoutTest:49 - Test failed due to exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='panel header']//button[@type='button']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-07-18 19:07:05 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 19:07:05 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 19:07:08 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 19:07:14 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 19:07:15 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 19:07:24 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 19:07:31 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 19:07:39 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 19:07:42 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 19:07:45 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 19:07:46 INFO  TC003_ChangePasswordTest:34 - Clicked user profile arrow
+2025-07-18 19:07:48 INFO  TC003_ChangePasswordTest:37 - Clicked My Account
+2025-07-18 19:07:50 INFO  TC003_ChangePasswordTest:40 - Clicked Change Password link
+2025-07-18 19:07:51 INFO  TC003_ChangePasswordTest:43 - Entered current password
+2025-07-18 19:07:51 INFO  TC003_ChangePasswordTest:48 - Entered new password: Dvblr@20800
+2025-07-18 19:07:55 INFO  TC003_ChangePasswordTest:51 - Clicked Save
+2025-07-18 19:07:55 INFO  TC003_ChangePasswordTest:54 - Validating password change success message...
+2025-07-18 19:07:55 INFO  TC003_ChangePasswordTest:57 - Actual Message: You saved the account information.
+2025-07-18 19:07:55 INFO  TC003_ChangePasswordTest:61 - ********** Password Change Test Passed **********
+2025-07-18 19:07:55 INFO  TC003_ChangePasswordTest:62 - New password is: Dvblr@20800
+2025-07-18 19:07:55 INFO  TC003_ChangePasswordTest:72 - ********** TC003_ChangePasswordTest Completed **********
+2025-07-18 19:08:03 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 19:08:06 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 19:08:10 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 19:08:10 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 19:08:30 ERROR TC004_LogoutTest:49 - Test failed due to exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='panel header']//button[@type='button']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 19:10:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--1289855467\testng-customsuite.xml
+
+2025-07-18 19:10:08 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-18 19:10:14 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 19:10:16 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 19:10:19 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 19:10:19 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 19:10:39 ERROR TC004_LogoutTest:49 - Test failed due to exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='panel header']//button[@type='button']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-07-18 19:10:39 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@289778cd: 53 ms
+2025-07-18 19:10:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7048535f: 14 ms
+2025-07-18 19:10:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@f1a45f8: 11 ms
+2025-07-18 19:10:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1431267b: 10 ms
+2025-07-18 19:10:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@20749d9: 7 ms
+2025-07-18 19:10:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@de77232: 0 ms
+2025-07-18 19:15:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\eclipse-workspace\QA_Assignment\master.xml
+
+2025-07-18 19:15:32 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 19:15:32 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 19:15:35 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 19:15:42 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 19:15:42 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 19:15:52 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 19:15:59 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 19:16:07 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 19:16:10 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 19:16:13 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 19:16:33 ERROR TC003_ChangePasswordTest:68 - Test Failed due to Exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='panel header']//button[@type='button']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-07-18 19:16:39 INFO  TC004_LogoutTest:17 - ********** TC004_LogoutTest Started **********
+2025-07-18 19:16:41 INFO  TC004_LogoutTest:23 - Clicked Sign In
+2025-07-18 19:16:44 INFO  TC004_LogoutTest:30 - Login attempted
+2025-07-18 19:16:44 INFO  TC004_LogoutTest:36 - Login success validated
+2025-07-18 19:16:59 ERROR TC004_LogoutTest:49 - Test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [38832167defc91a78b8d2cd434377f4a, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\madhu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52110}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52110/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 38832167defc91a78b8d2cd434377f4a
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:01:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--1104397751\testng-customsuite.xml
+
+2025-07-18 20:01:34 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-07-18 20:01:43 INFO  TC001_AccountRegistrationTest:16 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 20:01:43 INFO  TC001_AccountRegistrationTest:21 - Clicked On  CreateAnAccount Link...
+2025-07-18 20:01:51 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 20:01:57 INFO  TC001_AccountRegistrationTest:43 - Validating Expected message....
+2025-07-18 20:01:58 INFO  TC001_AccountRegistrationTest:58 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 20:01:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@73ad7e90: 128 ms
+2025-07-18 20:01:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@31133b6e: 2 ms
+2025-07-18 20:01:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@74abbb: 19 ms
+2025-07-18 20:01:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e1af49b: 15 ms
+2025-07-18 20:01:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@474fae39: 13 ms
+2025-07-18 20:01:59 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4f4c789f: 1 ms
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:06:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-1500197417\testng-customsuite.xml
+
+2025-07-18 20:06:29 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-18 20:06:41 INFO  TC002_LoginTest:17 - ********** TC002_LoginTest started **********
+2025-07-18 20:06:43 INFO  TC002_LoginTest:27 - Logging in with random email: test.automation@mailinator.com
+2025-07-18 20:07:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@67c119b7: 115 ms
+2025-07-18 20:07:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3701e6e4: 28 ms
+2025-07-18 20:07:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@289778cd: 19 ms
+2025-07-18 20:07:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2881ad47: 15 ms
+2025-07-18 20:07:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@56ac5c80: 12 ms
+2025-07-18 20:07:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@69e49a81: 0 ms
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 44 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-1181223610\testng-customsuite.xml
+
+2025-07-18 20:11:04 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-07-18 20:11:13 INFO  TC002_LoginTest:17 - ********** TC002_LoginTest started **********
+2025-07-18 20:11:16 INFO  TC002_LoginTest:27 - Logging in with random email: test.automation@gmail.com
+2025-07-18 20:11:19 INFO  TC002_LoginTest:43 - *********** TC002_LoginTest finished ***********
+2025-07-18 20:11:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@58496dc: 143 ms
+2025-07-18 20:11:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@23811a09: 2 ms
+2025-07-18 20:11:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1f51431: 21 ms
+2025-07-18 20:11:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3cec79d3: 15 ms
+2025-07-18 20:11:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c1812b3: 14 ms
+2025-07-18 20:11:20 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@43034809: 0 ms
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:11:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-1471770326\testng-customsuite.xml
+
+2025-07-18 20:11:43 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-07-18 20:11:51 INFO  TC001_AccountRegistrationTest:16 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 20:11:51 INFO  TC001_AccountRegistrationTest:21 - Clicked On  CreateAnAccount Link...
+2025-07-18 20:11:54 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 20:12:01 INFO  TC001_AccountRegistrationTest:43 - Validating Expected message....
+2025-07-18 20:12:01 INFO  TC001_AccountRegistrationTest:58 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 20:12:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@784c5ef5: 170 ms
+2025-07-18 20:12:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ea08277: 2 ms
+2025-07-18 20:12:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2dddc1b9: 22 ms
+2025-07-18 20:12:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@56ac5c80: 16 ms
+2025-07-18 20:12:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@13f9ad9: 14 ms
+2025-07-18 20:12:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1b7cae6f: 0 ms
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-1987058770\testng-customsuite.xml
+
+2025-07-18 20:19:09 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-07-18 20:19:15 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 20:19:15 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 20:19:17 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 20:19:22 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 20:19:23 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 20:19:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@65f58c6e: 153 ms
+2025-07-18 20:19:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@784c5ef5: 2 ms
+2025-07-18 20:19:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5ff2e84b: 22 ms
+2025-07-18 20:19:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7de843ef: 15 ms
+2025-07-18 20:19:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@ab20d7c: 12 ms
+2025-07-18 20:19:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@474fae39: 0 ms
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 36 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:19:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--393535917\testng-customsuite.xml
+
+2025-07-18 20:19:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-18 20:19:48 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 20:19:54 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 20:19:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@58496dc: 110 ms
+2025-07-18 20:19:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@23811a09: 1 ms
+2025-07-18 20:19:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1f51431: 13 ms
+2025-07-18 20:19:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3cec79d3: 17 ms
+2025-07-18 20:19:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c1812b3: 8 ms
+2025-07-18 20:19:55 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@43034809: 0 ms
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:20:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--215538383\testng-customsuite.xml
+
+2025-07-18 20:20:42 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-07-18 20:20:51 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 20:21:00 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 20:21:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4682eba5: 143 ms
+2025-07-18 20:21:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@540a903b: 6 ms
+2025-07-18 20:21:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@25c53f74: 21 ms
+2025-07-18 20:21:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5c10285a: 17 ms
+2025-07-18 20:21:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3157e4c0: 13 ms
+2025-07-18 20:21:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6eaa21d8: 0 ms
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:21:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse--312433809\testng-customsuite.xml
+
+2025-07-18 20:21:19 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-07-18 20:21:25 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 20:21:27 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 20:21:30 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 20:21:49 ERROR TC003_ChangePasswordTest:68 - Test Failed due to Exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [93a160131aacc596e13a1c0fe0a051a9, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\madhu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61781}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61781/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93a160131aacc596e13a1c0fe0a051a9
+2025-07-18 20:21:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3cae7b8b: 118 ms
+2025-07-18 20:21:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@41b0ae4c: 28 ms
+2025-07-18 20:21:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1023150a: 15 ms
+2025-07-18 20:21:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@15f2eda3: 14 ms
+2025-07-18 20:21:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@f1a45f8: 14 ms
+2025-07-18 20:21:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5edf2821: 0 ms
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 20:23:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-1709207123\testng-customsuite.xml
+
+2025-07-18 20:23:08 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-07-18 20:23:14 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 20:23:15 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 20:23:18 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 20:23:28 ERROR TC003_ChangePasswordTest:68 - Test Failed due to Exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6a55cfe58d70e6b9297a762d1bc95bd, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\madhu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61833}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61833/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6a55cfe58d70e6b9297a762d1bc95bd
+2025-07-18 20:23:28 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6c03fb16: 109 ms
+2025-07-18 20:23:28 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@65f58c6e: 27 ms
+2025-07-18 20:23:28 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@7c2312fa: 19 ms
+2025-07-18 20:23:28 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62ce72ff: 15 ms
+2025-07-18 20:23:28 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1023150a: 9 ms
+2025-07-18 20:23:28 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ece1e79: 0 ms
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:00 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-18 21:07:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\madhu\AppData\Local\Temp\testng-eclipse-28762368\testng-customsuite.xml
+
+2025-07-18 21:07:01 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-18 21:07:07 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 21:07:09 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 21:07:11 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 21:07:19 ERROR TC003_ChangePasswordTest:68 - Test Failed due to Exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e1152ae70c211eb231debda3fa1043f1, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\madhu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62600}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62600/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1152ae70c211eb231debda3fa1043f1
+2025-07-18 21:07:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1d61c6dc: 117 ms
+2025-07-18 21:07:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@31133b6e: 34 ms
+2025-07-18 21:07:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@64a4dd8d: 15 ms
+2025-07-18 21:07:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3fd2322d: 13 ms
+2025-07-18 21:07:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4f4c789f: 9 ms
+2025-07-18 21:07:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@13f9ad9: 0 ms
+2025-07-18 21:22:28 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 21:22:28 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 21:22:29 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 21:22:34 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 21:22:34 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 21:22:39 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 21:22:43 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 21:22:48 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 21:22:49 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 21:22:49 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 21:22:52 INFO  TC003_ChangePasswordTest:34 - Clicked user profile arrow
+2025-07-18 21:22:53 INFO  TC003_ChangePasswordTest:37 - Clicked My Account
+2025-07-18 21:22:55 INFO  TC003_ChangePasswordTest:40 - Clicked Change Password link
+2025-07-18 21:22:55 INFO  TC003_ChangePasswordTest:43 - Entered current password
+2025-07-18 21:22:56 INFO  TC003_ChangePasswordTest:48 - Entered new password: VnVnB@79219
+2025-07-18 21:23:00 INFO  TC003_ChangePasswordTest:51 - Clicked Save
+2025-07-18 21:23:00 INFO  TC003_ChangePasswordTest:54 - Validating password change success message...
+2025-07-18 21:23:00 INFO  TC003_ChangePasswordTest:57 - Actual Message: You saved the account information.
+2025-07-18 21:23:00 INFO  TC003_ChangePasswordTest:61 - ********** Password Change Test Passed **********
+2025-07-18 21:23:00 INFO  TC003_ChangePasswordTest:62 - New password is: VnVnB@79219
+2025-07-18 21:23:00 INFO  TC003_ChangePasswordTest:72 - ********** TC003_ChangePasswordTest Completed **********
+2025-07-18 21:23:04 INFO  TC004_LogoutTest:17 - **********TC004_Logout started**********
+2025-07-18 21:33:50 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 21:33:50 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 21:33:51 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 21:33:56 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 21:33:56 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 21:34:02 INFO  TC002_LoginTest:16 - ********** TC002_LoginTest started **********
+2025-07-18 21:34:07 INFO  TC002_LoginTest:29 - Logged in using password: cold@2025#
+2025-07-18 21:34:07 INFO  TC002_LoginTest:41 - ********** TC002_LoginTest finished **********
+2025-07-18 21:34:12 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 21:34:14 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 21:34:17 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 21:34:17 INFO  TC003_ChangePasswordTest:34 - Clicked user profile arrow
+2025-07-18 21:34:19 INFO  TC003_ChangePasswordTest:37 - Clicked My Account
+2025-07-18 21:34:22 INFO  TC003_ChangePasswordTest:40 - Clicked Change Password link
+2025-07-18 21:34:22 INFO  TC003_ChangePasswordTest:43 - Entered current password
+2025-07-18 21:34:22 INFO  TC003_ChangePasswordTest:49 - Entered new password: YPbeZ@76155
+2025-07-18 21:34:26 INFO  TC003_ChangePasswordTest:52 - Clicked Save
+2025-07-18 21:34:26 INFO  TC003_ChangePasswordTest:55 - Validating password change success message...
+2025-07-18 21:34:26 INFO  TC003_ChangePasswordTest:58 - Actual Message: You saved the account information.
+2025-07-18 21:34:26 INFO  TC003_ChangePasswordTest:62 - ********** Password Change Test Passed **********
+2025-07-18 21:34:26 INFO  TC003_ChangePasswordTest:66 - New password stored in BaseClass.updatedPassword: YPbeZ@76155
+2025-07-18 21:34:26 INFO  TC003_ChangePasswordTest:73 - ********** TC003_ChangePasswordTest Completed **********
+2025-07-18 21:34:31 INFO  TC004_LogoutTest:17 - **********TC004_Logout started**********
+2025-07-18 21:36:17 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 21:36:17 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 21:36:19 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 21:36:25 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 21:36:26 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 21:36:32 INFO  TC002_LoginTest:16 - ********** TC002_LoginTest started **********
+2025-07-18 21:36:35 INFO  TC002_LoginTest:29 - Logged in using password: cold@2025#
+2025-07-18 21:36:36 INFO  TC002_LoginTest:41 - ********** TC002_LoginTest finished **********
+2025-07-18 21:36:40 INFO  TC003_ChangePasswordTest:16 - ********** TC003_ChangePasswordTest Started **********
+2025-07-18 21:36:42 INFO  TC003_ChangePasswordTest:22 - Clicked Sign In
+2025-07-18 21:36:45 INFO  TC003_ChangePasswordTest:29 - Logged in successfully with existing credentials
+2025-07-18 21:37:00 ERROR TC003_ChangePasswordTest:69 - Test Failed due to Exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bbeeaefb1d428f3d7e178f3be1a6aedf, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: C:\Users\madhu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63293}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63293/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbeeaefb1d428f3d7e178f3be1a6aedf
+2025-07-18 21:41:47 INFO  TC001_AccountRegistrationTest:15 - ****** TC001_AccountRegistrationTest started ********
+2025-07-18 21:41:47 INFO  TC001_AccountRegistrationTest:20 - Clicked On  CreateAnAccount Link...
+2025-07-18 21:41:48 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details...
+2025-07-18 21:41:53 INFO  TC001_AccountRegistrationTest:39 - Validating Expected message....
+2025-07-18 21:41:53 INFO  TC001_AccountRegistrationTest:57 - ********Finished TC001_AccountRegistrationTest ***********
+2025-07-18 21:41:58 INFO  TC002_LoginTest:15 - **********TC002_LoginTest started**********
+2025-07-18 21:42:02 INFO  TC002_LoginTest:37 - ***********TC002_Logintest finished***********
+2025-07-18 21:42:07 INFO  TC003_ChangePasswordTest:16 - **********TC003_changepassword initiated**********
+2025-07-18 21:42:19 INFO  TC003_ChangePasswordTest:41 - Validating Expected message....
+2025-07-18 21:42:19 INFO  TC003_ChangePasswordTest:45 - Password changed successfully
+2025-07-18 21:42:19 INFO  TC003_ChangePasswordTest:62 - ***********TC003_changepasswordCompleted***********
+2025-07-18 21:42:23 INFO  TC004_LogoutTest:17 - **********TC004_Logout started**********
